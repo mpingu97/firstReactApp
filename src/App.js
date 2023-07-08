@@ -5,6 +5,7 @@ function App() {
     <div>
       <h2>Let's get started!</h2>
       <ExpanseItem></ExpanseItem>
+      <ExpanseItem></ExpanseItem>
     </div>
   );
 }
