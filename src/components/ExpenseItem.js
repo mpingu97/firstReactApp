@@ -1,5 +1,5 @@
 import "./ExpenseItem.css";
-import ExpenseDate from "./ExpsnseDate";
+import ExpenseDate from "./ExpenseDate";
 
 function ExpenseItem(probs) {
   return (
